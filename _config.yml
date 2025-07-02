@@ -1,0 +1,5 @@
+title: Just testing
+description: Just testing some stuff with ghpages
+theme: jekyll-theme-minimal
+include:
+  - ".well-known"
